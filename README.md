@@ -1,7 +1,3 @@
-![build-passing](https://img.shields.io/badge/Build-passing-success?style=flat-square)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-informational?style=flat-square)](https://www.python.org/)
-
-
 # Degrees
 
 This project calculates how many "degrees of separation" apart two actors are.
